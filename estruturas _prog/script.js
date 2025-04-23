@@ -18,12 +18,16 @@
 //alert("Tem certeza que já se inscreveu?")
 
 //built-in:math.x()
-let maiorNumero = Math.max(1,2,3);
-console.log(maiorNumero)
+//let maiorNumero = Math.max(1,2,3);
+//console.log(maiorNumero)
 
 
-let menorNumero = Math.min(1,2,3);
-console.log(menorNumero)
+//let menorNumero = Math.min(1,2,3);
+//console.log(menorNumero)
 
-let arredondarParaCima = Math.ceil(3.478989889);
-console.log(arredondarParaCima)
+//let arredondarParaCima = Math.ceil(3.478989889);
+//console.log(arredondarParaCima)
+
+const idade = '20'
+const nome = 'Anna'
+console.log(`Meu nome é ${nome} e eu tenho ${idade} anos.`)
